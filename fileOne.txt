@@ -1,2 +1,1 @@
-Welcome to the git course
-Hello from united states
+Commit 1
